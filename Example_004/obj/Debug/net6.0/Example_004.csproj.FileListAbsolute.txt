@@ -1,0 +1,15 @@
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\bin\Debug\net6.0\Example_004.exe
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\bin\Debug\net6.0\Example_004.deps.json
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\bin\Debug\net6.0\Example_004.runtimeconfig.json
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\bin\Debug\net6.0\Example_004.dll
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\bin\Debug\net6.0\Example_004.pdb
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.csproj.AssemblyReference.cache
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfoInputs.cache
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfo.cs
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.csproj.CoreCompileInputs.cache
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.dll
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\refint\Example_004.dll
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.pdb
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\Example_004.genruntimeconfig.cache
+Y:\Мой диск\1. GeekBrains\1 четверть\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (Лекция)\lesson_1\Example_004\obj\Debug\net6.0\ref\Example_004.dll
